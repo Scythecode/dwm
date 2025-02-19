@@ -23,8 +23,8 @@ static const int showsystray             = 1;   /* 0 means no systray */
 static int tagindicatortype              = INDICATOR_TOP_LEFT_SQUARE;
 static int tiledindicatortype            = INDICATOR_NONE;
 static int floatindicatortype            = INDICATOR_TOP_LEFT_SQUARE;
-static const char *fonts[]               = { "monospace:size=10" };
-static const char dmenufont[]            = "monospace:size=10";
+static const char *fonts[]               = { "Inconsolata:size=10" };
+static const char dmenufont[]            = "Inconsolata:size=10";
 
 static char c000000[]                    = "#000000"; // placeholder value
 
